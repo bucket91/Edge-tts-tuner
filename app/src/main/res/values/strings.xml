@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bangla TTS Tuner</string>
+    <string name="tab_tune">Tune</string>
+    <string name="tab_words">Words</string>
+    <string name="tab_rules">Rules</string>
+    <string name="tab_settings">Settings</string>
+</resources>

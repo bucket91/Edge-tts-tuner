@@ -1,0 +1,6 @@
+{
+  "name": "Bangla TTS Tuner",
+  "description": "Bangla text-to-speech tuner with edge-tts, pronunciation rules, Gemini respelling, and word corrections",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
